@@ -1,0 +1,108 @@
+[
+    {
+    "title": "My Updated Post",
+    "content": "My first updated post.... This is exciting!",
+    "user_id": 1
+    },
+    {
+    "title": "A Second Post",
+    "content": "This is a post from a different user...",
+    "user_id": 2
+    },
+    {
+    "title": "Top 5 Programming Lanaguages",
+    "content": " Python , C , Java ,PHP , Android ",
+    "user_id": 1
+    },
+    {
+    "title": "Sublime Text Tips and Tricks",
+    "content": " Research in progress ",
+    "user_id": 1
+    },
+    {
+    "title": "Best Python IDEs",
+    "content": "Elit,VSCode ",
+    "user_id": 1
+    },
+    {
+    "title": "Flask vs Django - Which Is Better?",
+    "content": " ENdless discussion ",
+    "user_id": 2
+    },
+    {
+    "title": "You Won't Believe These Clickbait ",
+    "content": "definitionem ad! Id vim insolens tacimates, pri at decore causae. Ex duo bonorum repudiandae? Vix no vidit facete impedit. An oportere indoctum eam.",
+    "user_id": 2
+    },
+    {
+    "title": "These Beers Will Improve Your Programming",
+    "content": " not happening ",
+    "user_id": 1
+    },
+    {
+    "title": "List of PyCon 2018 Talks",
+    "content": " abc ,xyz",
+    "user_id": 1
+    },
+    {
+    "title": "How Dogs in the Workplace Boosts Productivity",
+    "content": " Bullshit ",
+    "user_id": 1
+    },
+    {
+    "title": "The Best Programming Podcasts",
+    "content": " Nasser Hussein ",
+    "user_id": 1
+    },
+    {
+    "title": "Tips for Public Speaking",
+    "content": " Be clear ",
+    "user_id": 2
+    },
+    {
+    "title": "Best Programmers Throughout History",
+    "content": "Mel nulla legimus senserit id ius no putant argumentum, alienum ocurreret vim cu? Volumus democritum no vel, virtute commune an est. Vel te propriae lobortis rationibus, no eum odio neglegentur? Duo an sumo ignota latine! Nec mazim aperiam percipitur eu, id his dicit omnium.",
+    "user_id": 2
+    },
+
+    {
+    "title": "How I Record My Videos",
+    "content": "Ad vel possim delicatissimi, delectus detraxit per cu. Ad pri vidit modus altera! In erat complectitur sit, quo no nostro insolens? Aliquam patrioque scribentur quo ad, partem commune eos at. Eius vivendo comprehensam has ne, sea ne eros mazim oratio. Soluta populo te duo, ne pro causae fabulas percipitur, feugiat.",
+    "user_id": 1
+    },
+    {
+    "title": "Music To Listen To While Coding",
+    "content": "Feugait ri pro vide quas dolorum, sea no fugit sanctus neglegentur. Sit feugait disputationi ne. Id diceret periculis nec, sint nonumes in sea, cum.",
+    "user_id": 1
+    },
+    {
+    "title": "5 Tips for Writing Catchy Headlines",
+    "content": "Ea homero possit epicuri est, debitis docendi tacimates cu duo? Ad lorem cetero disputando pri, veniam eruditi tacimates per te.",
+    "user_id": 2
+    },
+    {
+    "title": "The Rise of Data Science",
+    "content": " Research in Progress ",
+    "user_id": 2
+    },
+    {
+    "title": "Best Videos For Learning Python",
+    "content": " PyCon Channel ",
+    "user_id": 1
+    },
+    {
+    "title": "Top 10 Python Tips and Tricks",
+    "content": "Believe yourself * 10",
+    "user_id": 1
+    },
+    {
+    "title": "Top 5 YouTube Channels For Learning Programming",
+    "content": "Ayan Usmani (In Progress)",
+    "user_id": 2
+    },
+    {
+    "title": "My Latest Updated Post",
+    "content": "Erat expetenda definitionem id eos",
+    "user_id": 1
+    }
+    ]

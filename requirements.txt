@@ -1,0 +1,3 @@
+django
+django-magiclink
+django-crispy-forms
